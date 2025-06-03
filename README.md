@@ -1,3 +1,13 @@
+after cloning, do "npm i"
+create a fil named ".env.local" and insert the below keys:
+# key for Azure
+AZURE_SPEECH_KEY=yourkey
+AZURE_SPEECH_REGION=yourkey
+
+# key for Gemini
+GEMINI_API_KEY=yourkey
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
