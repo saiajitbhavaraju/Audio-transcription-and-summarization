@@ -1,10 +1,10 @@
 after cloning, do "npm i"
 create a fil named ".env.local" and insert the below keys:
-# key for Azure
+// key for Azure
 AZURE_SPEECH_KEY=yourkey
 AZURE_SPEECH_REGION=yourkey
 
-# key for Gemini
+// key for Gemini
 GEMINI_API_KEY=yourkey
 
 
